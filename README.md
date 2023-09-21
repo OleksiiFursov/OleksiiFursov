@@ -23,28 +23,26 @@ My name is Oleksii, and I'm a Team-Lead Full-stack Web-developer. I'm passionate
 ## Skills
 
 ### Servers\Budler:
+- ![Nginx Badge](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white) Nginx is a high-performance web server and reverse proxy server known for its speed and scalability. It is commonly used to serve web applications and as a load balancer.
+- ![Apache Badge](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) Apache HTTP Server, often referred to as Apache, is one of the most widely used web servers globally. It's known for its flexibility and extensibility, making it a popular choice for hosting websites.
+- ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
+
+- ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) I use Yarn for quick and reliable package installation and management in projects.
 - ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white) I configure and manage projects using Webpack, optimizing resources and performance.
 
 - ![Vite.js Badge](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white) Vite.js is a build tool and development server that is designed to be fast and efficient. It's particularly well-suited for developing modern web applications using technologies like Vue.js and React.
 - ![Rollup Badge](https://img.shields.io/badge/-Rollup-EC4A3F?logo=rollup.js&logoColor=white) Rollup is a module bundler for JavaScript that focuses on generating small, efficient, and optimized code bundles. It's commonly used for building JavaScript libraries and smaller web applications.
 - ![Babel Badge](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white) I use Babel to transpile JavaScript code to earlier versions, providing support for various browsers.
 
-- ![Nginx Badge](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white) Nginx is a high-performance web server and reverse proxy server known for its speed and scalability. It is commonly used to serve web applications and as a load balancer.
-
-- ![Apache Badge](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) Apache HTTP Server, often referred to as Apache, is one of the most widely used web servers globally. It's known for its flexibility and extensibility, making it a popular choice for hosting websites.
-
-- ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
-
-- ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) I use Yarn for quick and reliable package installation and management in projects.
 
 ### Front-end
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) JavaScript is my primary tool for creating interactive web pages.
 - ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) I use TypeScript for writing safer and more readable JavaScript code.
 - ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) I primarily use React in my projects.
-- ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) I have extensive experience in managing application state using Redux.
 - ![React Hooks Badge](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) I use React hooks for efficient state management and component logic.
 - ![Redux Saga Badge](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux-saga&logoColor=white) I use Redux Saga to handle complex asynchronous operations such as network requests and state synchronization.
 - ![React Router Badge](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) I create navigation and routing in React applications, ensuring smooth transitions between views.
+- ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) I have extensive experience in managing application state using Redux.
 - ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) Vue.js is a progressive JavaScript framework for building user interfaces. It's known for its simplicity and ease of integration into projects, making it a popular choice for web development.
 - ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white) Nuxt.js is a framework for building server-rendered Vue.js applications. It simplifies the process of creating universal Vue applications with features like routing and server-side rendering.
 - ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) Creating semantic HTML structures is the foundation of my frontend work.
@@ -68,7 +66,7 @@ My name is Oleksii, and I'm a Team-Lead Full-stack Web-developer. I'm passionate
 
 
 ##### Testing
-![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) Cypress is an end-to-end testing framework for web applications. It allows you to write and run tests that interact with your application as a user would, helping you ensure the quality of your code.
+- ![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) Cypress is an end-to-end testing framework for web applications. It allows you to write and run tests that interact with your application as a user would, helping you ensure the quality of your code.
 - ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) I use Jest to test JavaScript and React code, ensuring high application quality.
 - ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) I use React Testing Library to test React components, ensuring correctness and functionality.
 
