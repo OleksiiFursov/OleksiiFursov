@@ -1,12 +1,14 @@
-# Hi there 👋
+👋 Hi, I'm **Oleksii**, a **Team-Lead Full-stack Web Developer**. I'm passionate about creating innovative projects and continuously expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
-Of course, here is an updated README that focuses on charts and diagrams:
+## 💼 Professional Background
 
-# Welcome to my GitHub profile!
+With 15 years of experience in the tech industry, I specialize in crafting high-performance web applications, mentoring individuals on their paths to success, and working with multiple programming languages.
 
-## About Me
+## 🌐 Language Skills
 
-My name is Oleksii, and I'm a Team-Lead Full-stack Web-developer. I'm passionate about creating innovative projects and continuously expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
+While I excel in the technical aspects of my work, it's important to note that my English proficiency is currently below average. I'm actively working on improving my English language skills to enhance communication and collaboration. In addition to English, I am proficient in Russian and Ukrainian at a high level and have above-average proficiency in Polish.
+
+Feel free to reach out if you have any questions or need assistance with web development projects. I'm here to help! 😊🚀
 
 ## Statistics
 
