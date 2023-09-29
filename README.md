@@ -16,11 +16,6 @@ Feel free to reach out if you have any questions or need assistance with web dev
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10)](https://github.com/OleksiiFursov)
 
-## Your Profile
-
-![Followers](https://img.shields.io/github/followers/OleksiiFursov?label=Followers&style=social)
-
-![Stars](https://img.shields.io/github/stars/OleksiiFursov?label=Stars&style=social)
 
 ## Skills
 
