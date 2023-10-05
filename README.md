@@ -1,4 +1,4 @@
-👋 Hi, I'm **Oleksii**, a **Team-Lead Full-stack Web Developer**. I'm passionate about creating innovative projects and continuously expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
+Hi, I'm **Oleksii**, a **Team-Lead Full-stack Web Developer**. I'm passionate about creating innovative projects and continuously expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
 ## 💼 Professional Background
 
