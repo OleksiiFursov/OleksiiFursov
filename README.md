@@ -16,7 +16,7 @@ Feel free to reach out if you have any questions or need assistance with web dev
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10)](https://github.com/OleksiiFursov)
 
-💻 My primary tech stack:
+№№ 💻 My primary tech stack:
  - **Front-end:**  Expertise in JavaScript, TypeScript, React, Redux Saga, React Router, and Vue.js for creating engaging user interfaces. Adept in HTML, CSS, Less, and Sass for building responsive and aesthetically pleasing designs. Familiar with Preact, Styled Components, Day.js, jQuery, Lodash, HTML5 Canvas, and p5.js for enhancing user experiences.
    
  - **Back-end:**  Skilled in PHP and Next.js for server-side development, along with MySQL for data management.
@@ -34,17 +34,7 @@ Feel free to reach out if you have any questions or need assistance with web dev
  - **Version Control:**  Proficient with Git and GitHub for code versioning and collaboration.
 
    
-### Technologies I'm Learning
-
-I'm currently learning new technologies and tools to expand my programming skills.
-
- Below is a list of some of these technologies and projects I'm working on as part of my learning:
-
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) I'm learning to build applications using Node.js.
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) I'm learning to create application servers using the Express.js framework.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I'm learning to build web applications using the Next.js framework.
-
-## Contact
+## 📫Contact
 
 If you're interested in collaborating or have any questions, you can contact me via [LinkedIn](https://www.linkedin.com/in/nodepro) or visit [my website](https://crossfox.online).
 
