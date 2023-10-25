@@ -13,10 +13,10 @@ Feel free to reach out if you have any questions or need assistance with web dev
 ## Statistics
 
 <a href="https://github.com/OleksiiFursov">
-  <img height=198 align="center" src="https://github-readme-stats.vercel.app/api?username=OleksiiFursov&show_icons=true&theme=radical&count_private=true" />
+  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api?username=OleksiiFursov&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/OleksiiFursov">
-  <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10" />
+  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10" />
 </a>
 
 
