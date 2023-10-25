@@ -11,9 +11,15 @@ While I excel in the technical aspects of my work, it's important to note that m
 Feel free to reach out if you have any questions or need assistance with web development projects. I'm here to help! 😊🚀
 
 ## Statistics
-<div style='display:flex; align-items: stretch;'>
-![Activity Stats](https://github-readme-stats.vercel.app/api?username=OleksiiFursov&show_icons=true&theme=radical&count_private=true)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10)](https://github.com/OleksiiFursov)
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 ## 💻 My primary tech stack:  
  - **Front-end:**  Expertise in JavaScript, TypeScript, React, Redux Saga, React Router, and Vue.js for creating engaging user interfaces. Adept in HTML, CSS, Less, and Sass for building responsive and aesthetically pleasing designs. Familiar with Preact, Styled Components, Day.js, jQuery, Lodash, HTML5 Canvas, and p5.js for enhancing user experiences.
  - **Back-end:**  Skilled in PHP and Next.js for server-side development, along with MySQL for data management.
