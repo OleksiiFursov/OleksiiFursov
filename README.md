@@ -1,37 +1,56 @@
-Hi, I'm **Oleksii**, a **Team-Lead Full-stack Web Developer**. I'm passionate about creating innovative projects and continuously expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
+# Oleksii Fursov
 
-## 💼 Professional Background
+Full-stack developer since 2008. CTO at [Pstryku.pl](https://pstryku.pl). Team Lead at byss.pl (2019–2025).
+I build products end to end: architecture, backend, frontend, mobile, infrastructure.
 
-With 15 years of experience in the tech industry, I specialize in crafting high-performance web applications, mentoring individuals on their paths to success, and working with multiple programming languages.
+Poznań, Poland · Polish, Ukrainian, Russian · English — written
 
-## 🌐 Language Skills
+---
 
-While I excel in the technical aspects of my work, it's important to note that my English proficiency is currently below average. I'm actively working on improving my English language skills to enhance communication and collaboration. In addition to English, I am proficient in Russian and Ukrainian at a high level and have above-average proficiency in Polish.
+### In numbers
 
-Feel free to reach out if you have any questions or need assistance with web development projects. I'm here to help! 😊🚀
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| **~100**   | projects shipped — from one-day MVPs to multi-app platforms        |
+| **12 500** | concurrent players in promo games I engineered, 99.8% stability    |
+| **8**      | developers in the team I led                                       |
+| **100+**   | people trained since 2012, 20+ of them now work in IT              |
 
-## Statistics
+### Selected work
 
-<a href="https://github.com/OleksiiFursov">
-  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api?username=OleksiiFursov&show_icons=true&theme=radical&count_private=true" />
-</a>
-<a href="https://github.com/OleksiiFursov">
-  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiFursov&layout=compact&theme=radical&langs_count=10" />
-</a>
+**Pstryku.pl** — food delivery platform · CTO · 2024–now
+The entire system is mine: customer app, restaurant app, POS app, courier app, admin panel with reports and analytics, alerting bots. React Native + Expo, PWA, backend rewritten on Bun.
+~30 active restaurants · checkout conversion **+34%** · orders **~+22%** quarter over quarter · backend up to **3×** faster · no outages since the rewrite.
 
+**byss.pl** — Team Lead / Senior Full-stack · 2019–2025
+Promo games for Media Markt and JTI (game engine and logic — mine), dealer panel for Kross, landing pages, support of large applications.
+Code review, architecture, hiring, onboarding, CI/CD, team standards.
 
-## 💻 My primary tech stack:  
- - **Front-end:**  Expertise in JavaScript, TypeScript, React, Redux Saga, React Router, and Vue.js for creating engaging user interfaces. Adept in HTML, CSS, Less, and Sass for building responsive and aesthetically pleasing designs. Familiar with Preact, Styled Components, Day.js, jQuery, Lodash, HTML5 Canvas, and p5.js for enhancing user experiences.
- - **Back-end:**  Skilled in PHP and Next.js for server-side development, along with MySQL for data management.
- - **CMS and E-commerce:**  Proficient in WordPress, WooCommerce, xBtit, DLE, SMF, OpenCart, Magento, ePage, and other CMS and e-commerce platforms for content management and online store development.
- - **Servers/Builders:**  Proficient in Nginx and Apache for web serving and load balancing. Skilled in npm, Yarn, Webpack, Vite, Rollup, and Babel for project management and optimization.
- - **UI:** Proficient in Material-UI and Ant Design for crafting attractive and responsive user interfaces.
- - **Testing:**  Experienced in Cypress, Jest, and React Testing Library for ensuring code quality and functionality.
- - **IDE**:  Efficiently use Visual Studio Code and PhpStorm for coding, debugging, and project management.
- - **Version Control:**  Proficient with Git and GitHub for code versioning and collaboration.
+**Crafters.com.ua** — marketplace for craft & farm products · 2021–2022
+Sole developer. Page load time cut by up to **72%**, checkout shortened.
 
-## 📫Contact
+**E-commerce for the German market** · 2015–2017
+Wrote the backend and a CRM used by **~120** employees. Assembled and led a team of 5.
 
-If you're interested in collaborating or have any questions, you can contact me via [LinkedIn](https://www.linkedin.com/in/nodepro) or visit [my website](https://crossfox.online).
+### Own tools · private repositories
 
-Thank you for visiting my GitHub profile. Feel free to explore my statistics and activity!
+- Docker + Traefik hosting platform with site provisioning and auto-deploy
+- Typed MySQL query builder for TypeScript / Bun
+- ViteFrame — minimal frontend framework with its own JSX runtime
+- Server monitoring
+
+### Stack
+
+**Core** — TypeScript, React, React Native (Expo), Bun, Node.js, PHP, MySQL
+**Infra** — Docker, Traefik, Nginx, Linux, CI/CD
+**Also** — Vue, Elysia, Vite, WordPress / WooCommerce, Jest, Cypress
+
+### Work with me
+
+- **MVP** — from idea to a working product. Fastest one shipped in a day.
+- **Support for systems left without a developer** — audit, takeover, security, migration from legacy to a modern stack.
+- **Mentoring** — 1:1 and small groups, code review, getting into IT.
+
+First call — 15 minutes, free.
+
+[LinkedIn](https://www.linkedin.com/in/oleksii-fursov) · [crossfox.online](https://crossfox.online)
